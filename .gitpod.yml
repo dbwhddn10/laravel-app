@@ -1,1 +1,1 @@
-workspaceLocation: "./laravel-app"
+workspaceLocation: "${CURRENT_DIR}"
